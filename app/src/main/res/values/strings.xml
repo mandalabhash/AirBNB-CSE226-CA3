@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">AirBNB - CA3</string>
-    <string name="api_key">AIzaSyDeNXKJCFQ9jTkEExHYLNEvBJ73xzAghBY</string>
+    <string name="api_key"> <!-- Enter your API KEY here --></string>  
 </resources>
