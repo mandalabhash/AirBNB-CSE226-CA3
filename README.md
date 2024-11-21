@@ -78,4 +78,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Google Maps SDK** for location integration.  
 - Android development documentation and guides.  
 - SQLite for lightweight database management.  
-```
+
+
+---
