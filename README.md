@@ -1,4 +1,6 @@
-# Airbnb Clone App  
+CA_3_5ubmi55i0n_CSE226
+
+# Arbnb App  
 
 A simple offline Android application built using Kotlin and XML as part of a learning exercise. This app mimics basic functionalities of an Airbnb-like platform but is not intended for practical use. It focuses on implementing key Android development concepts like database management, Google Maps integration, and custom ListView adapters.  
 
